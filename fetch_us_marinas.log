@@ -1,0 +1,12 @@
+2024-07-12 20:53:19,408 - INFO - Fetched data for region {'north': 40.917577, 'south': 40.477399, 'east': -73.700272, 'west': -74.25909}
+2024-07-12 20:53:19,408 - INFO - Test fetch successful, proceeding with full fetch.
+2024-07-12 20:55:36,443 - ERROR - Error fetching data for region 0: tags must be a dict with values of bool, str, or list of str
+2024-07-12 20:55:37,671 - ERROR - Error fetching data for region 1: tags must be a dict with values of bool, str, or list of str
+2024-07-12 20:55:38,215 - ERROR - Error fetching data for region 2: tags must be a dict with values of bool, str, or list of str
+2024-07-12 20:55:38,215 - INFO - Finished fetching all marina data.
+2024-07-12 21:11:17,227 - ERROR - Error fetching data for region 0: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-07-12 21:18:16,343 - ERROR - Error fetching data for region 1: Invalid field type <class 'list'>
+2024-07-12 21:28:26,437 - ERROR - Error fetching data for region 2: Invalid field type <class 'list'>
+2024-07-12 21:31:11,498 - ERROR - Error fetching data for region 3: cannot access local variable 'response' where it is not associated with a value
+2024-07-12 21:46:13,100 - ERROR - Error fetching data for region 4: Invalid field type <class 'list'>
+2024-07-12 21:46:13,101 - INFO - Finished fetching all marina data.
